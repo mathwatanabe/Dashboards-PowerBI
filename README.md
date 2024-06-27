@@ -10,12 +10,12 @@ Elaboração de dashboards com o intuito de aprender e desenvolver a capacidade 
 - [Dashboard de dados de Contábeis]
 - [Dashboard de dados de Mercado de Ações]
 
-### Dashboard de dados de Marketing
+## Dashboard de dados de Marketing
 ![Gif que exemplifica o funcionando do Dashboard de dados de Marketing]
 
 Acesse o dashboard completo [neste link]
 
-#### Estrutura da base de dados
+### Estrutura da base de dados
 
 Arquivo no formato csv que possuía as seguintes colunas:
 - ID (identificação do cliente)
