@@ -1,4 +1,4 @@
-# Dashboards-PowerBI
+# Dashboards PowerBI
 
 ## Objetivos
 Elaboração de dashboards com o intuito de aprender e desenvolver a capacidade de utilização da ferramenta Power BI e de habilidades analíticas. Foram construídos dashboards de diferentes áreas, que são apresentadas abaixo:
