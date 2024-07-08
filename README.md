@@ -7,7 +7,7 @@ Elaboração de dashboards com o intuito de aprender e desenvolver a capacidade 
 - [Dashboard de dados de Recursos Humanos](https://github.com/mathwatanabe/Dashboards-PowerBI/blob/main/ProjetoRHDSA.pbix)
 - [Dashboard de dados de Logística](https://github.com/mathwatanabe/Dashboards-PowerBI/blob/main/ProjetoLog%C3%ADsticaDSA.pbix)
 - [Dashboard de dados de Financeiros](https://github.com/mathwatanabe/Dashboards-PowerBI/blob/main/ProjetoFinanceiroDSA.pbix)
-- [Dashboard de dados de Contábeis]
+- [Dashboard de dados de Contábeis](https://github.com/mathwatanabe/Dashboards-PowerBI/blob/main/Balan%C3%A7oPatrimonialDSA.pbix)
 - [Dashboard de dados de Mercado de Ações](https://github.com/mathwatanabe/Dashboards-PowerBI/blob/main/ProjetoBolsaValoresDSA.pbix)
 
 ## Dashboard de dados de Marketing
