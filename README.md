@@ -24,7 +24,7 @@ Elaboração de dashboards com o intuito de aprender e desenvolver a capacidade 
 ![image](https://github.com/mathwatanabe/Dashboards-PowerBI/assets/170628618/6018b670-e2dd-40ea-b83c-acb5af6ae97b)
 
 
-Acesse o dashboard completo [neste link]
+Acesse o dashboard completo [neste link](https://github.com/mathwatanabe/Dashboards-PowerBI/blob/main/ProjetoMarketingDSA.pbix)
 
 ### Estrutura da base de dados
 
