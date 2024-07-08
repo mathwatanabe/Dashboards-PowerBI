@@ -2,13 +2,13 @@
 
 ## Objetivos
 Elaboração de dashboards com o intuito de aprender e desenvolver a capacidade de utilização da ferramenta Power BI e de habilidades analíticas. Foram construídos dashboards de diferentes áreas, que são apresentadas abaixo:
-- [Dashboard de dados de Marketing]
-- [Dashboard de dados de Comerciais]
-- [Dashboard de dados de Recursos Humanos]
-- [Dashboard de dados de Logística]
-- [Dashboard de dados de Financeiros]
+- [Dashboard de dados de Marketing](https://github.com/mathwatanabe/Dashboards-PowerBI/blob/main/ProjetoMarketingDSA.pbix)
+- [Dashboard de dados de Comerciais](https://github.com/mathwatanabe/Dashboards-PowerBI/blob/main/ProjetoComercialDSA.pbix)
+- [Dashboard de dados de Recursos Humanos](https://github.com/mathwatanabe/Dashboards-PowerBI/blob/main/ProjetoRHDSA.pbix)
+- [Dashboard de dados de Logística](https://github.com/mathwatanabe/Dashboards-PowerBI/blob/main/ProjetoLog%C3%ADsticaDSA.pbix)
+- [Dashboard de dados de Financeiros](https://github.com/mathwatanabe/Dashboards-PowerBI/blob/main/ProjetoFinanceiroDSA.pbix)
 - [Dashboard de dados de Contábeis]
-- [Dashboard de dados de Mercado de Ações]
+- [Dashboard de dados de Mercado de Ações](https://github.com/mathwatanabe/Dashboards-PowerBI/blob/main/ProjetoBolsaValoresDSA.pbix)
 
 ## Dashboard de dados de Marketing
 ![Gif que exemplifica o funcionando do Dashboard de dados de Marketing]
